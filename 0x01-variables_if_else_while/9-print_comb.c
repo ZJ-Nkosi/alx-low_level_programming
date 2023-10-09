@@ -7,8 +7,8 @@
 int main(void)
 {
 	int i = 0;
-	char c = ",";
-	char s = " ";
+	char c = ',';
+	char s = ' ';
 
 	while (i < 10)
 	{
