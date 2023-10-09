@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * this is the first official c program
- * main - prints a string
- * return: 0
+ * main - prints a string using puts instead of printf
+ * Return: 0
  */
 
 int main(void)
