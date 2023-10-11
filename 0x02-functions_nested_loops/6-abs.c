@@ -2,8 +2,8 @@
 
 /**
  * _abs - computes the absolute value
- * @n: the integer
- * Return: n
+ * @i: the integer
+ * Return: i
  */
 
 int _abs(int i)
