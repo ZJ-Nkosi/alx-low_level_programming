@@ -11,19 +11,7 @@ void print_alphabet_x10(void)
 
 	while (j < 10)
 	{
-		print_alpha();
-		_putchar('\n');
+		print_alphabet();
 		j++;
-	}
-}
-
-void print_alpha(void)
-{
-	int i = 97;
-
-	while (i <= 122)
-	{
-		_putchar(i);
-		i++
 	}
 }
