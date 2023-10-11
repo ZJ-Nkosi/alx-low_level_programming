@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * void print_alphabet_x10(void) - printing the alphabet 10 times
+ * print_alphabet_x10 - printing the alphabet 10 times
  */
 
 void print_alphabet_x10(void)
@@ -16,7 +16,6 @@ void print_alphabet_x10(void)
 			_putchar(i);
 			i++;
 		}
-		_putchar('\n');
 		j++;
 	}
 }
