@@ -4,7 +4,6 @@
  * print_alphabet_x10 - printing the alphabet 10 times
  */
 
-print_alpha();
 
 void print_alphabet_x10(void)
 {
