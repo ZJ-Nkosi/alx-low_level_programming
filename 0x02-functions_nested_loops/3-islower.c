@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stddef.h>
 
 /**
  *_islower - checks if letter is lowercase
@@ -19,6 +18,6 @@ int _islower(int c)
 	}
 	else
 	{
-		return (NULL);
+		return (988);
 	}
 }
