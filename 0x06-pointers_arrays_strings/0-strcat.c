@@ -8,6 +8,6 @@
 
 char *_strcat(char *dest, char *src)
 {
-	char concatenated = *dest + *src;
-	return (concatenated);
+	char *concatenated = *dest + *src;
+	return (*concatenated);
 }
