@@ -3,6 +3,7 @@
 /**
  * *_strncat - concats strings
  * @dest: firsts
+ * @n: number
  * @src: second
  * Return: concatenation
  */
